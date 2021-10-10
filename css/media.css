@@ -1,0 +1,543 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	
+		/* header start   */
+        .custom_icon i {
+            line-height: 1.2;
+        }
+	/* header end   */
+    /* banner start  */
+    .banner {
+        padding: 50px 0 50px;
+    }
+    .banner_text {
+        padding-top: 65px;
+    }
+    .banner_text h1 {
+        padding-right: 0;
+        font-size: 32px
+    }
+    .banner_text p {
+        padding-right: 0;
+    }
+    .banner_img{
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .banner_img img {
+        width: 75%;
+    }
+    /* banner end  */
+    /* about start  */
+    .about {
+        padding: 50px 0;
+    }
+    .img_2 h2 {
+        margin-top: 18px;
+        font-size: 20px;
+    }
+    .about_img_group {
+        margin-bottom: 20px;
+    }
+    .about_text{
+        margin-right: 0;
+        padding-left: 0;
+    }
+    .about_text h3 {
+        margin: 20px 0;
+    }
+    .about_text h1 {      
+        font-size: 25px;
+    }
+    .about_text p {
+        margin-bottom: 25px;
+    }
+    /* about end  */
+
+    /* feature start  */
+    .feature {
+        padding-bottom: 50px;
+    }
+    .feature_item {
+        padding: 35px 9px;
+    }
+    .common_title h1 {
+        margin-bottom: 45px;
+        font-size: 30px;
+    }
+    .feature_item p {     
+        font-size: 15px;
+    }
+    /* feature end  */
+    /* work start  */
+    .work {
+        padding-bottom: 75px;
+    }
+    .c_text {
+            margin-left: 0;
+            margin-right: 30px;
+            margin-top: 30px;
+    }
+    .c_text h5 {
+        margin-bottom: 10px;
+    }
+    .c_text h1 {
+        margin-bottom: 25px;
+        font-size: 21px;   
+    }
+    .w_2 {
+        margin-right: 30px;
+    }
+    /* work end  */
+    /* funfact start  */
+    .funfact {
+        padding: 35px 0;
+    }
+    .f_item img {
+        width: 40%;
+    }
+    .f_item p span {
+       margin-right: 10px;
+       font-size: 35px;
+    }
+    .f_item p {
+        font-size: 15px;
+    }
+    /* funfact end  */
+    /* testmonial start  */
+    .testmonial {
+        padding: 60px 0;
+    }
+    .custom_item {
+        padding: 0 0 40px 0;
+    }
+    .custom_item img {
+       margin: 0 auto;
+       width: 30%;
+    }
+    .custom_item p {
+        font-size: 18px;
+    }
+    /* testmonial end  */
+    /* team start  */
+    .team {
+        padding-bottom: 55px;
+    }
+    .member_box h2 {
+        margin: 20px 0 15px;
+    }
+    .member_box p {
+        margin-bottom: 0;
+    }
+    /* team end  */
+    /* blog start  */
+    .blog {
+        padding-bottom: 35px;
+    }
+    .blog_item h2 {
+        margin: 15px 0;
+    }
+    .blog_item .comment {
+        margin-right: 85px;
+    }
+    /* blog end */
+    /* contact start  */
+    .contact_text {
+        padding: 0 0 15px 0;
+    }
+    .contact_text h1 {
+        margin-bottom: 35px;
+        font-size: 30px;
+    }
+    .contact_text .location img, 
+    .contact_text .phone img, 
+    .contact_text .email img {
+        display: block;
+    }
+    /* contact end  */
+    /* partner start  */
+    .partner {
+        padding: 65px 0;
+    }
+    /* partner end  */
+    /* footer start  */
+    .footer_top {
+        padding: 35px 0;
+    }
+    .our_service,
+    .instagram {
+        margin-bottom: 30px;
+    }
+    .f_contact p i, .f_contact a i{
+        display: block;
+        font-size: 20px;
+    }
+    /* footer end  */
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+		/* header start   */
+        .custom_icon i {
+            line-height: 1.2;
+        }
+	/* header end   */
+    /* banner start  */
+    .banner {
+        padding: 50px 0 50px;
+    }
+    .banner_text h1 {
+        padding-right: 0;
+        font-size: 32px
+    }
+    .banner_text p {
+        padding-right: 0;
+    }
+    .banner_img{
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .banner_img img {
+        width: 75%;
+    }
+    /* banner end  */
+    /* about start  */
+    .about {
+        padding: 80px 0;
+    }
+    .img_2 h2 {
+        margin-top: 45px;
+    }
+    .about_img_group {
+        margin-bottom: 20px;
+    }
+    .about_text{
+        margin-right: 0;
+        padding-left: 45px;
+    }
+    .about_text h3 {
+        margin: 20px 0;
+    }
+    .about_text p {
+        margin-bottom: 25px;
+    }
+    /* about end  */
+
+    /* feature start  */
+    .feature {
+        padding-bottom: 70px;
+    }
+    .common_title h1 {
+        margin-bottom: 55px;
+        font-size: 30px;
+    }
+    /* feature end  */
+    /* work start  */
+    .work {
+        padding-bottom: 75px;
+    }
+    .c_text {
+            margin-left: 0;
+            margin-right: 80px;
+            margin-top: 30px;
+    }
+    .c_text h5 {
+        margin-bottom: 10px;
+    }
+    .c_text h1 {
+        margin-bottom: 18px;
+        margin-bottom: 35px;
+        font-size: 21px;   
+    }
+    .w_2 {
+        margin-right: 80px;
+    }
+    /* work end  */
+    /* funfact start  */
+    .funfact {
+        padding: 35px 0;
+    }
+    .f_item p span {
+       margin-right: 10px;
+       font-size: 35px;
+    }
+    .f_item p {
+        font-size: 18px;
+    }
+    /* funfact end  */
+    /* testmonial start  */
+    .testmonial {
+        padding: 80px 0 75px;
+    }
+    .custom_item {
+        padding: 0 63px 40px 58px;
+    }
+    .custom_item img {
+       margin: 0 auto;
+    }
+    /* testmonial end  */
+    /* team start  */
+    .team {
+        padding-bottom: 65px;
+    }
+    /* team end  */
+    /* blog start  */
+    .blog {
+        padding-bottom: 50px;
+    }
+    .blog_item h2 {
+        margin: 15px 0;
+    }
+    .blog_item .comment {
+        margin-right: 22px;
+    }
+    /* blog end */
+    /* contact start  */
+    .contact_text {
+        padding: 0 0 15px 0;
+    }
+    .contact_text h1 {
+        margin-bottom: 35px;
+        font-size: 30px;
+    }
+    .contact_text .location img, .contact_text .phone img, .contact_text .email img {
+        margin-right: 20px;
+    }
+    /* contact end  */
+    /* partner start  */
+    .partner {
+        padding: 65px 0;
+    }
+    /* partner end  */
+    /* footer start  */
+    .footer_top {
+        padding: 80px 0;
+    }
+    /* footer end  */
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+		/* header start   */
+        .custom_icon i {
+            line-height: 1.2;
+        }
+	/* header end   */
+    /* banner start  */
+    .banner {
+        padding: 50px 0 100px;
+    }
+    .banner_text h1 {
+        padding-right: 0;
+        font-size: 40px
+    }
+    .banner_text p {
+        padding-right: 0;
+    }
+    .banner_img{
+        margin-top: 0;
+        align-items: center;
+        display: flex;
+    }
+    /* banner end  */
+    /* about start  */
+    .about {
+        padding: 80px 0;
+    }
+    .img_2 h2 {
+        margin-top: 45px;
+    }
+    .about_img_group {
+        margin-bottom: 20px;
+    }
+    .about_text{
+        margin-right: 180px;
+        padding-left: 45px;
+    }
+    .about_text h3 {
+        margin: 20px 0;
+    }
+    .about_text p {
+        margin-bottom: 25px;
+    }
+    /* about end  */
+
+    /* feature start  */
+    .feature {
+        padding-bottom: 70px;
+    }
+    .common_title h1 {
+        margin-bottom: 55px;
+        font-size: 40px;
+    }
+    /* feature end  */
+    /* work start  */
+    .work {
+        padding-bottom: 85px;
+    }
+    .c_text {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .c_text h5 {
+        margin-bottom: 10px;
+    }
+    .c_text h1 {
+        margin-bottom: 18px;
+        margin-bottom: 35px;
+        font-size: 21px;   
+    }
+    .w_2 {
+        margin-right: 0; 
+    }
+    /* work end  */
+    /* funfact start  */
+    .funfact {
+        padding: 35px 0;
+    }
+    .f_item p span {
+       margin-right: 10px;
+       font-size: 35px;
+    }
+    .f_item p {
+        font-size: 18px;
+    }
+    /* funfact end  */
+    /* testmonial start  */
+    .testmonial {
+        padding: 90px 0 75px;
+    }
+    .custom_item {
+        padding: 0 63px 40px 58px;
+    }
+    .custom_item img {
+       margin: 0 auto;
+    }
+    /* testmonial end  */
+    /* team start  */
+    .team {
+        padding-bottom: 85px;
+    }
+    /* team end  */
+    /* blog start  */
+    .blog {
+        padding-bottom: 90px;
+    }
+    .blog_item .comment {
+        margin-right: 22px;
+    }
+    /* blog end */
+    /* contact start  */
+    .contact_text h1 {
+        margin-bottom: 35px;
+        font-size: 30px;
+    }
+    .contact_text .location img, .contact_text .phone img, .contact_text .email img {
+        margin-right: 166px;
+    }
+    /* contact end  */
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* header start   */
+	/* header end   */
+    /* banner start  */
+    .banner {
+        padding: 50px 0 100px;
+    }
+    .banner_text h1 {
+        padding-right: 0;
+        font-size: 49px
+    }
+    .banner_text p {
+        padding-right: 0;
+    }
+    .banner_img{
+        margin-top: 0;
+    }
+    /* banner end  */
+    /* about start  */
+    .img_2 h2 {
+        margin-top: 45px;
+    }
+    .about_text{
+        margin-right: 30px;
+        padding-left: 45px;
+    }
+    .about_text h3 {
+        margin: 20px 0;
+    }
+    .about_text p {
+        margin-bottom: 25px;
+    }
+    /* about end  */
+
+    /* feature start  */
+    .feature {
+        padding-bottom: 100px;
+    }
+    /* feature end  */
+    /* work start  */
+    .work {
+        padding-bottom: 100px;
+    }
+    .c_text {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .c_text h5 {
+        margin-bottom: 10px;
+    }
+    .c_text h1 {
+        margin-bottom: 18px;
+    }
+    .w_2 {
+        margin-right: 0; 
+    }
+    /* work end  */
+    /* funfact start  */
+    .funfact {
+        padding: 35px 0;
+    }
+    .f_item p span {
+       font-size: 45px;
+    }
+    .f_item p {
+        font-size: 18px;
+    }
+    /* funfact end  */
+    /* testmonial start  */
+    .testmonial {
+        padding: 100px 0;
+    }
+    /* testmonial end  */
+    /* team start  */
+    .team {
+        padding-bottom: 100px;
+    }
+    /* team end  */
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	/* banner start  */
+    .banner_text h1 {
+        padding-right: 0;       
+    }
+	/* banner end  */
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
